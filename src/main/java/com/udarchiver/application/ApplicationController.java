@@ -1,4 +1,4 @@
-package com.udarchiver;
+package com.udarchiver.application;
 
 import javafx.fxml.FXML;
 import javafx.scene.control.Label;
